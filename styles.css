@@ -4,5 +4,6 @@
 .logo-elementor{left:7%;top:53%;background:#d62c80;color:#fff;animation-delay:1.2s}.elementor-mark{display:flex;flex-direction:column;justify-content:space-between;width:26px;height:27px;border-left:5px solid #fff;padding-left:5px}.elementor-mark i{display:block;width:16px;height:5px;background:#fff;border-radius:1px}@media(max-width:760px){.elementor-mark{width:20px;height:21px;border-left-width:4px;padding-left:4px}.elementor-mark i{width:12px;height:4px}}
 .project-visual{display:block;background:#221631}.project-visual::after{display:none}.project-visual img{display:block;width:100%;height:100%;object-fit:cover;object-position:center}
 .project-visual.p-marketing{display:grid}
+.dimarvo-visual img{object-position:left center}
 
 
