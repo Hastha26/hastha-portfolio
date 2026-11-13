@@ -14,7 +14,7 @@ nav.querySelectorAll('a').forEach(link => link.addEventListener('click', () => {
 document.querySelector('#year').textContent = new Date().getFullYear();
 
 const roleElement = document.querySelector('.typed-role');
-const roles = ['Web Developer', 'Freelancer', 'Salesforce Developer', 'Digital Marketing'];
+const roles = ['Web Developer', 'Freelancer', 'Salesforce Developer'];
 if (roleElement && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
   let roleIndex = 0;
   let characterIndex = roles[0].length;
